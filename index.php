@@ -2,7 +2,7 @@
 // --- TU CÓDIGO: CONFIGURACIÓN Y LÓGICA DE CONTROL ---
 // 1. Conexión a la Base de Datos
 define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_PASS', 'Jr2sintia#23102003');
 define('DB_NAME', 'todolist');
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', '3306');
